@@ -1,3 +1,5 @@
+
+
 # 🛡️ Windows Threat Detection & Log Monitoring using Elastic Stack
 
 ## 📌 Project Overview
@@ -45,7 +47,7 @@ This project demonstrates the implementation of a Windows-based threat detection
 | Dashboards       |
 +-------------------+
 
-```text
+```
 
 ## 🔁 Attack → Detection → Dashboard Flow
 
